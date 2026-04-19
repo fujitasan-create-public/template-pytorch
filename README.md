@@ -32,3 +32,4 @@ uv sync
 ```bash
 uv run train-lora --config finetune_template/config/config.yaml
 ```
+
